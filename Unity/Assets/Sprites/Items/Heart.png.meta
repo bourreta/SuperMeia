@@ -1,0 +1,987 @@
+fileFormatVersion: 2
+guid: 6f79b6a8e20bf41fd9ec571505cb072e
+timeCreated: 1517606424
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Heart_0
+    21300002: Heart_1
+    21300004: Heart_2
+    21300006: Heart_3
+    21300008: Heart_4
+    21300010: Heart_5
+    21300012: Heart_6
+    21300014: Heart_7
+    21300016: Heart_8
+    21300018: Heart_9
+    21300020: Heart_10
+    21300022: Heart_11
+    21300024: Heart_12
+    21300026: Heart_13
+    21300028: Heart_14
+    21300030: Heart_15
+    21300032: Heart_16
+    21300034: Heart_17
+    21300036: Heart_18
+    21300038: Heart_19
+    21300040: Heart_20
+    21300042: Heart_21
+    21300044: Heart_22
+    21300046: Heart_23
+    21300048: Heart_24
+    21300050: Heart_25
+    21300052: Heart_26
+    21300054: Heart_27
+    21300056: Heart_28
+    21300058: Heart_29
+    21300060: Heart_30
+    21300062: Heart_31
+    21300064: Heart_32
+    21300066: Heart_33
+    21300068: Heart_34
+    21300070: Heart_35
+    21300072: Heart_36
+    21300074: Heart_37
+    21300076: Heart_38
+    21300078: Heart_39
+    21300080: Heart_40
+    21300082: Heart_41
+    21300084: Heart_42
+    21300086: Heart_43
+    21300088: Heart_44
+    21300090: Heart_45
+    21300092: Heart_46
+    21300094: Heart_47
+    21300096: Heart_48
+    21300098: Heart_49
+    21300100: Heart_50
+    21300102: Heart_51
+    21300104: Heart_52
+    21300106: Heart_53
+    21300108: Heart_54
+    21300110: Heart_55
+    21300112: Heart_56
+    21300114: Heart_57
+    21300116: Heart_58
+    21300118: Heart_59
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heart_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1895
+        width: 143
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1895
+        width: 143
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_2
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1895
+        width: 143
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_3
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1895
+        width: 143
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_4
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1895
+        width: 143
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1725
+        width: 143
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1725
+        width: 143
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1725
+        width: 143
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_8
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1725
+        width: 143
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_9
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1725
+        width: 143
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1557
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1557
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_12
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1557
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_13
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1557
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_14
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1557
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1387
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_16
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1387
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_17
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1387
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_18
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1387
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_19
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1387
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1218
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_21
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1218
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_22
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1218
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_23
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1218
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_24
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1218
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1048
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_26
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1048
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_27
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1048
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_28
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1048
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_29
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1048
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_30
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 878
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_31
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 878
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_32
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 878
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_33
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 878
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_34
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 878
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_35
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 709
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_36
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 709
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_37
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 709
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_38
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 709
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_39
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 709
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_40
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 539
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_41
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 539
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_42
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 539
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_43
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 539
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_44
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 539
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_45
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 370
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_46
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 370
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_47
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 370
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_48
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 370
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_49
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 370
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_50
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 200
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_51
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 200
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_52
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 200
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_53
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 200
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_54
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 200
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_55
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 30
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_56
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 30
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_57
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 30
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_58
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 30
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Heart_59
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 30
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1887 @@
+fileFormatVersion: 2
+guid: 92d434a7db58345a78f09258fd7143c7
+timeCreated: 1520217125
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Gem-red_0
+    21300002: Gem-red_1
+    21300004: Gem-red_2
+    21300006: Gem-red_3
+    21300008: Gem-red_4
+    21300010: Gem-red_5
+    21300012: Gem-red_6
+    21300014: Gem-red_7
+    21300016: Gem-red_8
+    21300018: Gem-red_9
+    21300020: Gem-red_10
+    21300022: Gem-red_11
+    21300024: Gem-red_12
+    21300026: Gem-red_13
+    21300028: Gem-red_14
+    21300030: Gem-red_15
+    21300032: Gem-red_16
+    21300034: Gem-red_17
+    21300036: Gem-red_18
+    21300038: Gem-red_19
+    21300040: Gem-red_20
+    21300042: Gem-red_21
+    21300044: Gem-red_22
+    21300046: Gem-red_23
+    21300048: Gem-red_24
+    21300050: Gem-red_25
+    21300052: Gem-red_26
+    21300054: Gem-red_27
+    21300056: Gem-red_28
+    21300058: Gem-red_29
+    21300060: Gem-red_30
+    21300062: Gem-red_31
+    21300064: Gem-red_32
+    21300066: Gem-red_33
+    21300068: Gem-red_34
+    21300070: Gem-red_35
+    21300072: Gem-red_36
+    21300074: Gem-red_37
+    21300076: Gem-red_38
+    21300078: Gem-red_39
+    21300080: Gem-red_40
+    21300082: Gem-red_41
+    21300084: Gem-red_42
+    21300086: Gem-red_43
+    21300088: Gem-red_44
+    21300090: Gem-red_45
+    21300092: Gem-red_46
+    21300094: Gem-red_47
+    21300096: Gem-red_48
+    21300098: Gem-red_49
+    21300100: Gem-red_50
+    21300102: Gem-red_51
+    21300104: Gem-red_52
+    21300106: Gem-red_53
+    21300108: Gem-red_54
+    21300110: Gem-red_55
+    21300112: Gem-red_56
+    21300114: Gem-red_57
+    21300116: Gem-red_58
+    21300118: Gem-red_59
+    21300120: Gem-red_60
+    21300122: Gem-red_61
+    21300124: Gem-red_62
+    21300126: Gem-red_63
+    21300128: Gem-red_64
+    21300130: Gem-red_65
+    21300132: Gem-red_66
+    21300134: Gem-red_67
+    21300136: Gem-red_68
+    21300138: Gem-red_69
+    21300140: Gem-red_70
+    21300142: Gem-red_71
+    21300144: Gem-red_72
+    21300146: Gem-red_73
+    21300148: Gem-red_74
+    21300150: Gem-red_75
+    21300152: Gem-red_76
+    21300154: Gem-red_77
+    21300156: Gem-red_78
+    21300158: Gem-red_79
+    21300160: Gem-red_80
+    21300162: Gem-red_81
+    21300164: Gem-red_82
+    21300166: Gem-red_83
+    21300168: Gem-red_84
+    21300170: Gem-red_85
+    21300172: Gem-red_86
+    21300174: Gem-red_87
+    21300176: Gem-red_88
+    21300178: Gem-red_89
+    21300180: Gem-red_90
+    21300182: Gem-red_91
+    21300184: Gem-red_92
+    21300186: Gem-red_93
+    21300188: Gem-red_94
+    21300190: Gem-red_95
+    21300192: Gem-red_96
+    21300194: Gem-red_97
+    21300196: Gem-red_98
+    21300198: Gem-red_99
+    21300200: Gem-red_100
+    21300202: Gem-red_101
+    21300204: Gem-red_102
+    21300206: Gem-red_103
+    21300208: Gem-red_104
+    21300210: Gem-red_105
+    21300212: Gem-red_106
+    21300214: Gem-red_107
+    21300216: Gem-red_108
+    21300218: Gem-red_109
+    21300220: Gem-red_110
+    21300222: Gem-red_111
+    21300224: Gem-red_112
+    21300226: Gem-red_113
+    21300228: Gem-red_114
+    21300230: Gem-red_115
+    21300232: Gem-red_116
+    21300234: Gem-red_117
+    21300236: Gem-red_118
+    21300238: Gem-red_119
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gem-red_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3801
+        width: 139
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 3801
+        width: 139
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 3801
+        width: 138
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_3
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 3801
+        width: 140
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_4
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 3801
+        width: 139
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3637
+        width: 139
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 3638
+        width: 138
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 3639
+        width: 137
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_8
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 3639
+        width: 137
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_9
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 3639
+        width: 137
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3474
+        width: 137
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_11
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 3474
+        width: 138
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_12
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 3474
+        width: 137
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_13
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 3474
+        width: 136
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_14
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 3474
+        width: 135
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3309
+        width: 135
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 3309
+        width: 137
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_17
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 3309
+        width: 135
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_18
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 3309
+        width: 136
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_19
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 3309
+        width: 135
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3145
+        width: 135
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 3145
+        width: 134
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_22
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 3145
+        width: 133
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_23
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3145
+        width: 135
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_24
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 3145
+        width: 135
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2982
+        width: 133
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_26
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2982
+        width: 134
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_27
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2982
+        width: 133
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_28
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2982
+        width: 133
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_29
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2982
+        width: 131
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_30
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2818
+        width: 133
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_31
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2818
+        width: 132
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_32
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2818
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_33
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2818
+        width: 132
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_34
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2818
+        width: 132
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_35
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2655
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_36
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2655
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_37
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2655
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_38
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2655
+        width: 132
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_39
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2655
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2490
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_41
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2490
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_42
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2490
+        width: 130
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_43
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2490
+        width: 130
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_44
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 2490
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_45
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2325
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_46
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2325
+        width: 130
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_47
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2325
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_48
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2325
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_49
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2325
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_50
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2163
+        width: 127
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_51
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2163
+        width: 129
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_52
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2163
+        width: 127
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_53
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2163
+        width: 128
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_54
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 2163
+        width: 127
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_55
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1998
+        width: 125
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1998
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_57
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1998
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_58
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1998
+        width: 126
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_59
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1998
+        width: 126
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_60
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1833
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1833
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_62
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1833
+        width: 125
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_63
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1833
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_64
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1833
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_65
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1669
+        width: 125
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_66
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1669
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_67
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1669
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_68
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1669
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_69
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1669
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_70
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1504
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_71
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1504
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_72
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1504
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_73
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1504
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_74
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1504
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_75
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1341
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_76
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1341
+        width: 130
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_77
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1340
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_78
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1341
+        width: 130
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_79
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1341
+        width: 130
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_80
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1177
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_81
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1177
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_82
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1177
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_83
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1177
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_84
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1177
+        width: 130
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_85
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1011
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_86
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1011
+        width: 132
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_87
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1010
+        width: 131
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_88
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1011
+        width: 133
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_89
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1010
+        width: 133
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_90
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 846
+        width: 134
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_91
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 846
+        width: 136
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_92
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 846
+        width: 135
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_93
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 846
+        width: 137
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_94
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 846
+        width: 137
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_95
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 683
+        width: 133
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_96
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 683
+        width: 132
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_97
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 683
+        width: 132
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_98
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 683
+        width: 134
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_99
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 683
+        width: 133
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_100
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 518
+        width: 137
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_101
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 518
+        width: 136
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_102
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 518
+        width: 135
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_103
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 518
+        width: 138
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_104
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 518
+        width: 137
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_105
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 355
+        width: 133
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_106
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 355
+        width: 135
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_107
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 355
+        width: 135
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_108
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 354
+        width: 135
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_109
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 354
+        width: 133
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_110
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 189
+        width: 137
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_111
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 189
+        width: 139
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_112
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 189
+        width: 138
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_113
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 189
+        width: 138
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_114
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 189
+        width: 137
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_115
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 24
+        width: 137
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_116
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 24
+        width: 140
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_117
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 24
+        width: 139
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_118
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 24
+        width: 139
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gem-red_119
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 24
+        width: 139
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

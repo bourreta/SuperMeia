@@ -1,0 +1,1002 @@
+fileFormatVersion: 2
+guid: 9473b0503e93c0649b23b46f3ed11a64
+timeCreated: 1519494571
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Monster_Turtle_Die_0
+    21300002: Monster_Turtle_Die_1
+    21300004: Monster_Turtle_Die_2
+    21300006: Monster_Turtle_Die_3
+    21300008: Monster_Turtle_Die_4
+    21300010: Monster_Turtle_Die_5
+    21300012: Monster_Turtle_Die_6
+    21300014: Monster_Turtle_Die_7
+    21300016: Monster_Turtle_Die_8
+    21300018: Monster_Turtle_Die_9
+    21300020: Monster_Turtle_Die_10
+    21300022: Monster_Turtle_Die_11
+    21300024: Monster_Turtle_Die_12
+    21300026: Monster_Turtle_Die_13
+    21300028: Monster_Turtle_Die_14
+    21300030: Monster_Turtle_Die_15
+    21300032: Monster_Turtle_Die_16
+    21300034: Monster_Turtle_Die_17
+    21300036: Monster_Turtle_Die_18
+    21300038: Monster_Turtle_Die_19
+    21300040: Monster_Turtle_Die_20
+    21300042: Monster_Turtle_Die_21
+    21300044: Monster_Turtle_Die_22
+    21300046: Monster_Turtle_Die_23
+    21300048: Monster_Turtle_Die_24
+    21300050: Monster_Turtle_Die_25
+    21300052: Monster_Turtle_Die_26
+    21300054: Monster_Turtle_Die_27
+    21300056: Monster_Turtle_Die_28
+    21300058: Monster_Turtle_Die_29
+    21300060: Monster_Turtle_Die_30
+    21300062: Monster_Turtle_Die_31
+    21300064: Monster_Turtle_Die_32
+    21300066: Monster_Turtle_Die_33
+    21300068: Monster_Turtle_Die_34
+    21300070: Monster_Turtle_Die_35
+    21300072: Monster_Turtle_Die_36
+    21300074: Monster_Turtle_Die_37
+    21300076: Monster_Turtle_Die_38
+    21300078: Monster_Turtle_Die_39
+    21300080: Monster_Turtle_Die_40
+    21300082: Monster_Turtle_Die_41
+    21300084: Monster_Turtle_Die_42
+    21300086: Monster_Turtle_Die_43
+    21300088: Monster_Turtle_Die_44
+    21300090: Monster_Turtle_Die_45
+    21300092: Monster_Turtle_Die_46
+    21300094: Monster_Turtle_Die_47
+    21300096: Monster_Turtle_Die_48
+    21300098: Monster_Turtle_Die_49
+    21300100: Monster_Turtle_Die_50
+    21300102: Monster_Turtle_Die_51
+    21300104: Monster_Turtle_Die_52
+    21300106: Monster_Turtle_Die_53
+    21300108: Monster_Turtle_Die_54
+    21300110: Monster_Turtle_Die_55
+    21300112: Monster_Turtle_Die_56
+    21300114: Monster_Turtle_Die_57
+    21300116: Monster_Turtle_Die_58
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 12597
+        width: 410
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_1
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 12603
+        width: 385
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 12180
+        width: 352
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_3
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 12187
+        width: 322
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 11764
+        width: 296
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_5
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 11776
+        width: 259
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 11353
+        width: 234
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_7
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 11359
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_8
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 10936
+        width: 182
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_9
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 10946
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_10
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 10507
+        width: 176
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_11
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 10500
+        width: 176
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_12
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 10059
+        width: 176
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_13
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 10052
+        width: 176
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_14
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 9616
+        width: 176
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_15
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 9610
+        width: 176
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_16
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 9168
+        width: 176
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_17
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 9161
+        width: 176
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_18
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 8723
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_19
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 8719
+        width: 176
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_20
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 8290
+        width: 176
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_21
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 8291
+        width: 176
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_22
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 7867
+        width: 176
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_23
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 7867
+        width: 176
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_24
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 7443
+        width: 176
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_25
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 7425
+        width: 340
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_26
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 6989
+        width: 341
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_27
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 6989
+        width: 340
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_28
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 6559
+        width: 344
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_29
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 6559
+        width: 340
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_30
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 6124
+        width: 344
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_31
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 6124
+        width: 340
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_32
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 5694
+        width: 344
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_33
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 5694
+        width: 343
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_34
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 5264
+        width: 344
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_35
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 5264
+        width: 340
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_36
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 4829
+        width: 344
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_37
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 4829
+        width: 343
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_38
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 4399
+        width: 344
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_39
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 4399
+        width: 340
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_40
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 3964
+        width: 344
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_41
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3964
+        width: 340
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_42
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 3534
+        width: 344
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_43
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 3534
+        width: 343
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_44
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 3104
+        width: 341
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_45
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3104
+        width: 340
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_46
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2669
+        width: 341
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_47
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2669
+        width: 340
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_48
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2239
+        width: 341
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_49
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2239
+        width: 340
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_50
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1805
+        width: 341
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_51
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1805
+        width: 340
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_52
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1374
+        width: 341
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_53
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1374
+        width: 340
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_54
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 945
+        width: 341
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_55
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 945
+        width: 340
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_56
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 512
+        width: 340
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_57
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 512
+        width: 340
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Die_58
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 82
+        width: 338
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

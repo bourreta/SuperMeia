@@ -1,0 +1,657 @@
+fileFormatVersion: 2
+guid: 11715aa94c48efe40bc87a200e0f2b30
+timeCreated: 1520553574
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Boss_Jump_0
+    21300002: Boss_Jump_1
+    21300004: Boss_Jump_2
+    21300006: Boss_Jump_3
+    21300008: Boss_Jump_4
+    21300010: Boss_Jump_5
+    21300012: Boss_Jump_6
+    21300014: Boss_Jump_7
+    21300016: Boss_Jump_8
+    21300018: Boss_Jump_9
+    21300020: Boss_Jump_10
+    21300022: Boss_Jump_11
+    21300024: Boss_Jump_12
+    21300026: Boss_Jump_13
+    21300028: Boss_Jump_14
+    21300030: Boss_Jump_15
+    21300032: Boss_Jump_16
+    21300034: Boss_Jump_17
+    21300036: Boss_Jump_18
+    21300038: Boss_Jump_19
+    21300040: Boss_Jump_20
+    21300042: Boss_Jump_21
+    21300044: Boss_Jump_22
+    21300046: Boss_Jump_23
+    21300048: Boss_Jump_24
+    21300050: Boss_Jump_25
+    21300052: Boss_Jump_26
+    21300054: Boss_Jump_27
+    21300056: Boss_Jump_28
+    21300058: Boss_Jump_29
+    21300060: Boss_Jump_30
+    21300062: Boss_Jump_31
+    21300064: Boss_Jump_32
+    21300066: Boss_Jump_33
+    21300068: Boss_Jump_34
+    21300070: Boss_Jump_35
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 11380
+        width: 670
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 11384
+        width: 669
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 10727
+        width: 670
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 10732
+        width: 669
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 10073
+        width: 670
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 10078
+        width: 669
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 9420
+        width: 670
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_7
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 9424
+        width: 669
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_8
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 8767
+        width: 670
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_9
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 8771
+        width: 669
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 8114
+        width: 670
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_11
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 8119
+        width: 669
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 7462
+        width: 670
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_13
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 7465
+        width: 669
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 6808
+        width: 670
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_15
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 6813
+        width: 669
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_16
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 6154
+        width: 670
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_17
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 6159
+        width: 669
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_18
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 5502
+        width: 670
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_19
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 5506
+        width: 669
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 4848
+        width: 670
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_21
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 4852
+        width: 669
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_22
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 4196
+        width: 670
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_23
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 4200
+        width: 669
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_24
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 3543
+        width: 670
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_25
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 3546
+        width: 669
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_26
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2867
+        width: 670
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_27
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 2850
+        width: 669
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_28
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2171
+        width: 670
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_29
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 2152
+        width: 669
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_30
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1473
+        width: 670
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_31
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1456
+        width: 669
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_32
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 795
+        width: 670
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_33
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 795
+        width: 669
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_34
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 132
+        width: 670
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Jump_35
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 132
+        width: 669
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

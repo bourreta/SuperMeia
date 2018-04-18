@@ -1,0 +1,1917 @@
+fileFormatVersion: 2
+guid: ef0ab8c24b9e19e409dde148e5a68bcc
+timeCreated: 1517033493
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mystery_Brick_0
+    21300002: Mystery_Brick_1
+    21300004: Mystery_Brick_2
+    21300006: Mystery_Brick_3
+    21300008: Mystery_Brick_4
+    21300010: Mystery_Brick_5
+    21300012: Mystery_Brick_6
+    21300014: Mystery_Brick_7
+    21300016: Mystery_Brick_8
+    21300018: Mystery_Brick_9
+    21300020: Mystery_Brick_10
+    21300022: Mystery_Brick_11
+    21300024: Mystery_Brick_12
+    21300026: Mystery_Brick_13
+    21300028: Mystery_Brick_14
+    21300030: Mystery_Brick_15
+    21300032: Mystery_Brick_16
+    21300034: Mystery_Brick_17
+    21300036: Mystery_Brick_18
+    21300038: Mystery_Brick_19
+    21300040: Mystery_Brick_20
+    21300042: Mystery_Brick_21
+    21300044: Mystery_Brick_22
+    21300046: Mystery_Brick_23
+    21300048: Mystery_Brick_24
+    21300050: Mystery_Brick_25
+    21300052: Mystery_Brick_26
+    21300054: Mystery_Brick_27
+    21300056: Mystery_Brick_28
+    21300058: Mystery_Brick_29
+    21300060: Mystery_Brick_30
+    21300062: Mystery_Brick_31
+    21300064: Mystery_Brick_32
+    21300066: Mystery_Brick_33
+    21300068: Mystery_Brick_34
+    21300070: Mystery_Brick_35
+    21300072: Mystery_Brick_36
+    21300074: Mystery_Brick_37
+    21300076: Mystery_Brick_38
+    21300078: Mystery_Brick_39
+    21300080: Mystery_Brick_40
+    21300082: Mystery_Brick_41
+    21300084: Mystery_Brick_42
+    21300086: Mystery_Brick_43
+    21300088: Mystery_Brick_44
+    21300090: Mystery_Brick_45
+    21300092: Mystery_Brick_46
+    21300094: Mystery_Brick_47
+    21300096: Mystery_Brick_48
+    21300098: Mystery_Brick_49
+    21300100: Mystery_Brick_50
+    21300102: Mystery_Brick_51
+    21300104: Mystery_Brick_52
+    21300106: Mystery_Brick_53
+    21300108: Mystery_Brick_54
+    21300110: Mystery_Brick_55
+    21300112: Mystery_Brick_56
+    21300114: Mystery_Brick_57
+    21300116: Mystery_Brick_58
+    21300118: Mystery_Brick_59
+    21300120: Mystery_Brick_60
+    21300122: Mystery_Brick_61
+    21300124: Mystery_Brick_62
+    21300126: Mystery_Brick_63
+    21300128: Mystery_Brick_64
+    21300130: Mystery_Brick_65
+    21300132: Mystery_Brick_66
+    21300134: Mystery_Brick_67
+    21300136: Mystery_Brick_68
+    21300138: Mystery_Brick_69
+    21300140: Mystery_Brick_70
+    21300142: Mystery_Brick_71
+    21300144: Mystery_Brick_72
+    21300146: Mystery_Brick_73
+    21300148: Mystery_Brick_74
+    21300150: Mystery_Brick_75
+    21300152: Mystery_Brick_76
+    21300154: Mystery_Brick_77
+    21300156: Mystery_Brick_78
+    21300158: Mystery_Brick_79
+    21300160: Mystery_Brick_80
+    21300162: Mystery_Brick_81
+    21300164: Mystery_Brick_82
+    21300166: Mystery_Brick_83
+    21300168: Mystery_Brick_84
+    21300170: Mystery_Brick_85
+    21300172: Mystery_Brick_86
+    21300174: Mystery_Brick_87
+    21300176: Mystery_Brick_88
+    21300178: Mystery_Brick_89
+    21300180: Mystery_Brick_90
+    21300182: Mystery_Brick_91
+    21300184: Mystery_Brick_92
+    21300186: Mystery_Brick_93
+    21300188: Mystery_Brick_94
+    21300190: Mystery_Brick_95
+    21300192: Mystery_Brick_96
+    21300194: Mystery_Brick_97
+    21300196: Mystery_Brick_98
+    21300198: Mystery_Brick_99
+    21300200: Mystery_Brick_100
+    21300202: Mystery_Brick_101
+    21300204: Mystery_Brick_102
+    21300206: Mystery_Brick_103
+    21300208: Mystery_Brick_104
+    21300210: Mystery_Brick_105
+    21300212: Mystery_Brick_106
+    21300214: Mystery_Brick_107
+    21300216: Mystery_Brick_108
+    21300218: Mystery_Brick_109
+    21300220: Mystery_Brick_110
+    21300222: Mystery_Brick_111
+    21300224: Mystery_Brick_112
+    21300226: Mystery_Brick_113
+    21300228: Mystery_Brick_114
+    21300230: Mystery_Brick_115
+    21300232: Mystery_Brick_116
+    21300234: Mystery_Brick_117
+    21300236: Mystery_Brick_118
+    21300238: Mystery_Brick_119
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mystery_Brick_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3878
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 3878
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_2
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3878
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_3
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 3878
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_4
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 3878
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3711
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 3711
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3711
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_8
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 3711
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_9
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 3711
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3545
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_11
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 3545
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_12
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3545
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_13
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 3545
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_14
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 3545
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3378
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_16
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 3378
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_17
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3378
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_18
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 3378
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_19
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 3378
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3212
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_21
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 3212
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_22
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3212
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_23
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 3212
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_24
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 3212
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3045
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_26
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 3045
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_27
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3045
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_28
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 3045
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_29
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 3045
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_30
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2879
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_31
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2879
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_32
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2879
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_33
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2879
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_34
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 2879
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_35
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2712
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_36
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2712
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_37
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2712
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_38
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2712
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_39
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 2712
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2545
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_41
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2545
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_42
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2545
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_43
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2545
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_44
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 2545
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_45
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2379
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_46
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2379
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_47
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2379
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_48
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2379
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_49
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 2379
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_50
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2212
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_51
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2212
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_52
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2212
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_53
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2212
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_54
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 2212
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_55
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2046
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_56
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2046
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_57
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2046
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_58
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2046
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_59
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 2046
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_60
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1879
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_61
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1879
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_62
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1879
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_63
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1879
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_64
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1879
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_65
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1712
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_66
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1712
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_67
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1712
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_68
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1712
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_69
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1712
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_70
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1546
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_71
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1546
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_72
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1546
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_73
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1546
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_74
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1546
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_75
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1379
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_76
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1379
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_77
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1379
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_78
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1379
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_79
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1379
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_80
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1213
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_81
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1213
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_82
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1213
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_83
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1213
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_84
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1213
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_85
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1046
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_86
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1046
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_87
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1046
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_88
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1046
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_89
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1046
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_90
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 879
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_91
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 879
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_92
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 879
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_93
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 879
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_94
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 879
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_95
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 713
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_96
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 713
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_97
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 713
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_98
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 713
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_99
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 713
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_100
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 546
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_101
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 546
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_102
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 546
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_103
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 546
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_104
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 546
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_105
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 380
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_106
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 380
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_107
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 380
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_108
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 380
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_109
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 380
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_110
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 213
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_111
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 213
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_112
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 213
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_113
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 213
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_114
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 213
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_115
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 46
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_116
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 46
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_117
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 46
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_118
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 46
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystery_Brick_119
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 46
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

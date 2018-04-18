@@ -1,0 +1,807 @@
+fileFormatVersion: 2
+guid: ce2d5cf01c4605c40b9e66f1bc5c188c
+timeCreated: 1520553633
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Boss_Arms_0
+    21300002: Boss_Arms_1
+    21300004: Boss_Arms_2
+    21300006: Boss_Arms_3
+    21300008: Boss_Arms_4
+    21300010: Boss_Arms_5
+    21300012: Boss_Arms_6
+    21300014: Boss_Arms_7
+    21300016: Boss_Arms_8
+    21300018: Boss_Arms_9
+    21300020: Boss_Arms_10
+    21300022: Boss_Arms_11
+    21300024: Boss_Arms_12
+    21300026: Boss_Arms_13
+    21300028: Boss_Arms_14
+    21300030: Boss_Arms_15
+    21300032: Boss_Arms_16
+    21300034: Boss_Arms_17
+    21300036: Boss_Arms_18
+    21300038: Boss_Arms_19
+    21300040: Boss_Arms_20
+    21300042: Boss_Arms_21
+    21300044: Boss_Arms_22
+    21300046: Boss_Arms_23
+    21300048: Boss_Arms_24
+    21300050: Boss_Arms_25
+    21300052: Boss_Arms_26
+    21300054: Boss_Arms_27
+    21300056: Boss_Arms_28
+    21300058: Boss_Arms_29
+    21300060: Boss_Arms_30
+    21300062: Boss_Arms_31
+    21300064: Boss_Arms_32
+    21300066: Boss_Arms_33
+    21300068: Boss_Arms_34
+    21300070: Boss_Arms_35
+    21300072: Boss_Arms_36
+    21300074: Boss_Arms_37
+    21300076: Boss_Arms_38
+    21300078: Boss_Arms_39
+    21300080: Boss_Arms_40
+    21300082: Boss_Arms_41
+    21300084: Boss_Arms_42
+    21300086: Boss_Arms_43
+    21300088: Boss_Arms_44
+    21300090: Boss_Arms_45
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_Arms_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 14553
+        width: 680
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_1
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 14553
+        width: 659
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 13894
+        width: 619
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_3
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 13894
+        width: 574
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 13234
+        width: 595
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_5
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 13234
+        width: 613
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 12575
+        width: 626
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_7
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 12575
+        width: 645
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_8
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 11916
+        width: 661
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_9
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 11916
+        width: 672
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 11256
+        width: 680
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_11
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 11256
+        width: 681
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 10597
+        width: 676
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_13
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 10597
+        width: 665
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 9938
+        width: 648
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_15
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 9938
+        width: 663
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_16
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 9280
+        width: 672
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_17
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 9280
+        width: 679
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_18
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 8621
+        width: 681
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_19
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 8621
+        width: 679
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 7961
+        width: 670
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_21
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 7961
+        width: 663
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_22
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 7302
+        width: 648
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_23
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 7302
+        width: 633
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_24
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 6642
+        width: 621
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_25
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 6642
+        width: 609
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_26
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 5983
+        width: 592
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_27
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 5983
+        width: 574
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_28
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 5324
+        width: 589
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_29
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 5324
+        width: 605
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_30
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 4665
+        width: 616
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_31
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 4665
+        width: 626
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_32
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 4007
+        width: 639
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_33
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 4007
+        width: 653
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_34
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 3348
+        width: 663
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_35
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 3348
+        width: 672
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_36
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2688
+        width: 677
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_37
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 2688
+        width: 681
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_38
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2029
+        width: 680
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_39
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 2029
+        width: 678
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_40
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1370
+        width: 670
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_41
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1370
+        width: 670
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_42
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 710
+        width: 670
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_43
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 710
+        width: 670
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_44
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 51
+        width: 670
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Arms_45
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 51
+        width: 670
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: 1b6dff46fc5208242bfde973f8d04285
+timeCreated: 1519576014
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Supergirl_Jump_PowerUp_0
+    21300002: Supergirl_Jump_PowerUp_1
+    21300004: Supergirl_Jump_PowerUp_2
+    21300006: Supergirl_Jump_PowerUp_3
+    21300008: Supergirl_Jump_PowerUp_4
+    21300010: Supergirl_Jump_PowerUp_5
+    21300012: Supergirl_Jump_PowerUp_6
+    21300014: Supergirl_Jump_PowerUp_7
+    21300016: Supergirl_Jump_PowerUp_8
+    21300018: Supergirl_Jump_PowerUp_9
+    21300020: Supergirl_Jump_PowerUp_10
+    21300022: Supergirl_Jump_PowerUp_11
+    21300024: Supergirl_Jump_PowerUp_12
+    21300026: Supergirl_Jump_PowerUp_13
+    21300028: Supergirl_Jump_PowerUp_14
+    21300030: Supergirl_Jump_PowerUp_15
+    21300032: Supergirl_Jump_PowerUp_16
+    21300034: Supergirl_Jump_PowerUp_17
+    21300036: Supergirl_Jump_PowerUp_18
+    21300038: Supergirl_Jump_PowerUp_19
+    21300040: Supergirl_Jump_PowerUp_20
+    21300042: Supergirl_Jump_PowerUp_21
+    21300044: Supergirl_Jump_PowerUp_22
+    21300046: Supergirl_Jump_PowerUp_23
+    21300048: Supergirl_Jump_PowerUp_24
+    21300050: Supergirl_Jump_PowerUp_25
+    21300052: Supergirl_Jump_PowerUp_26
+    21300054: Supergirl_Jump_PowerUp_27
+    21300056: Supergirl_Jump_PowerUp_28
+    21300058: Supergirl_Jump_PowerUp_29
+    21300060: Supergirl_Jump_PowerUp_30
+    21300062: Supergirl_Jump_PowerUp_31
+    21300064: Supergirl_Jump_PowerUp_32
+    21300066: Supergirl_Jump_PowerUp_33
+    21300068: Supergirl_Jump_PowerUp_34
+    21300070: Supergirl_Jump_PowerUp_35
+    21300072: Supergirl_Jump_PowerUp_36
+    21300074: Supergirl_Jump_PowerUp_37
+    21300076: Supergirl_Jump_PowerUp_38
+    21300078: Supergirl_Jump_PowerUp_39
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1909
+        width: 114
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1908
+        width: 114
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1907
+        width: 115
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_3
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1906
+        width: 116
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1697
+        width: 117
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1697
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_6
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1697
+        width: 117
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_7
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1698
+        width: 118
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1489
+        width: 120
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1490
+        width: 122
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_10
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1491
+        width: 123
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_11
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1492
+        width: 125
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1283
+        width: 125
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_13
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1284
+        width: 127
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_14
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1285
+        width: 128
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_15
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1285
+        width: 130
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1075
+        width: 129
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1074
+        width: 129
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_18
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1073
+        width: 129
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_19
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1073
+        width: 128
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 863
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 862
+        width: 127
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_22
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 861
+        width: 126
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_23
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 860
+        width: 126
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 650
+        width: 127
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 650
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_26
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 650
+        width: 129
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_27
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 650
+        width: 125
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 441
+        width: 123
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_29
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 442
+        width: 121
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_30
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 443
+        width: 118
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_31
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 443
+        width: 115
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 234
+        width: 114
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_33
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 234
+        width: 114
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_34
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 234
+        width: 114
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_35
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 234
+        width: 114
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 25
+        width: 114
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_37
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 25
+        width: 114
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_38
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 25
+        width: 114
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Supergirl_Jump_PowerUp_39
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 25
+        width: 114
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

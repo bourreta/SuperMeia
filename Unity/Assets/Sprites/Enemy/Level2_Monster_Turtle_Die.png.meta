@@ -1,0 +1,1185 @@
+fileFormatVersion: 2
+guid: 1c24ddf4b55d8db4b90bc3bbdac3eb0f
+timeCreated: 1519573187
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Level2_Monster_Turtle_Die_0
+    21300002: Level2_Monster_Turtle_Die_1
+    21300004: Level2_Monster_Turtle_Die_2
+    21300006: Level2_Monster_Turtle_Die_3
+    21300008: Level2_Monster_Turtle_Die_4
+    21300010: Level2_Monster_Turtle_Die_5
+    21300012: Level2_Monster_Turtle_Die_6
+    21300014: Level2_Monster_Turtle_Die_7
+    21300016: Level2_Monster_Turtle_Die_8
+    21300018: Level2_Monster_Turtle_Die_9
+    21300020: Level2_Monster_Turtle_Die_10
+    21300022: Level2_Monster_Turtle_Die_11
+    21300024: Level2_Monster_Turtle_Die_12
+    21300026: Level2_Monster_Turtle_Die_13
+    21300028: Level2_Monster_Turtle_Die_14
+    21300030: Level2_Monster_Turtle_Die_15
+    21300032: Level2_Monster_Turtle_Die_16
+    21300034: Level2_Monster_Turtle_Die_17
+    21300036: Level2_Monster_Turtle_Die_18
+    21300038: Level2_Monster_Turtle_Die_19
+    21300040: Level2_Monster_Turtle_Die_20
+    21300042: Level2_Monster_Turtle_Die_21
+    21300044: Level2_Monster_Turtle_Die_22
+    21300046: Level2_Monster_Turtle_Die_23
+    21300048: Level2_Monster_Turtle_Die_24
+    21300050: Level2_Monster_Turtle_Die_25
+    21300052: Level2_Monster_Turtle_Die_26
+    21300054: Level2_Monster_Turtle_Die_27
+    21300056: Level2_Monster_Turtle_Die_28
+    21300058: Level2_Monster_Turtle_Die_29
+    21300060: Level2_Monster_Turtle_Die_30
+    21300062: Level2_Monster_Turtle_Die_31
+    21300064: Level2_Monster_Turtle_Die_32
+    21300066: Level2_Monster_Turtle_Die_33
+    21300068: Level2_Monster_Turtle_Die_34
+    21300070: Level2_Monster_Turtle_Die_35
+    21300072: Level2_Monster_Turtle_Die_36
+    21300074: Level2_Monster_Turtle_Die_37
+    21300076: Level2_Monster_Turtle_Die_38
+    21300078: Level2_Monster_Turtle_Die_39
+    21300080: Level2_Monster_Turtle_Die_40
+    21300082: Level2_Monster_Turtle_Die_41
+    21300084: Level2_Monster_Turtle_Die_42
+    21300086: Level2_Monster_Turtle_Die_43
+    21300088: Level2_Monster_Turtle_Die_44
+    21300090: Level2_Monster_Turtle_Die_45
+    21300092: Level2_Monster_Turtle_Die_46
+    21300094: Level2_Monster_Turtle_Die_47
+    21300096: Level2_Monster_Turtle_Die_48
+    21300098: Level2_Monster_Turtle_Die_49
+    21300100: Level2_Monster_Turtle_Die_50
+    21300102: Level2_Monster_Turtle_Die_51
+    21300104: Level2_Monster_Turtle_Die_52
+    21300106: Level2_Monster_Turtle_Die_53
+    21300108: Level2_Monster_Turtle_Die_54
+    21300110: Level2_Monster_Turtle_Die_55
+    21300112: Level2_Monster_Turtle_Die_56
+    21300114: Level2_Monster_Turtle_Die_57
+    21300116: Level2_Monster_Turtle_Die_58
+    21300118: Level2_Monster_Turtle_Die_59
+    21300120: Level2_Monster_Turtle_Die_60
+    21300122: Level2_Monster_Turtle_Die_61
+    21300124: Level2_Monster_Turtle_Die_62
+    21300126: Level2_Monster_Turtle_Die_63
+    21300128: Level2_Monster_Turtle_Die_64
+    21300130: Level2_Monster_Turtle_Die_65
+    21300132: Level2_Monster_Turtle_Die_66
+    21300134: Level2_Monster_Turtle_Die_67
+    21300136: Level2_Monster_Turtle_Die_68
+    21300138: Level2_Monster_Turtle_Die_69
+    21300140: Level2_Monster_Turtle_Die_70
+    21300142: Level2_Monster_Turtle_Die_71
+    21300144: Level2_Monster_Turtle_Die_72
+    21300146: Level2_Monster_Turtle_Die_73
+    21300148: Level2_Monster_Turtle_Die_74
+    21300150: Level2_Monster_Turtle_Die_75
+    21300152: Level2_Monster_Turtle_Die_76
+    21300154: Level2_Monster_Turtle_Die_77
+    21300156: Level2_Monster_Turtle_Die_78
+    21300158: Level2_Monster_Turtle_Die_79
+    21300160: Level2_Monster_Turtle_Die_80
+    21300162: Level2_Monster_Turtle_Die_81
+    21300164: Level2_Monster_Turtle_Die_82
+    21300166: Level2_Monster_Turtle_Die_83
+    21300168: Level2_Monster_Turtle_Die_84
+    21300170: Level2_Monster_Turtle_Die_85
+    21300172: Level2_Monster_Turtle_Die_86
+    21300174: Level2_Monster_Turtle_Die_87
+    21300176: Level2_Monster_Turtle_Die_88
+    21300178: Level2_Monster_Turtle_Die_89
+    21300180: Level2_Monster_Turtle_Die_90
+    21300182: Level2_Monster_Turtle_Die_91
+    21300184: Level2_Monster_Turtle_Die_92
+    21300186: Level2_Monster_Turtle_Die_93
+    21300188: Level2_Monster_Turtle_Die_94
+    21300190: Level2_Monster_Turtle_Die_95
+    21300192: Level2_Monster_Turtle_Die_96
+    21300194: Level2_Monster_Turtle_Die_97
+    21300196: Level2_Monster_Turtle_Die_98
+    21300198: Level2_Monster_Turtle_Die_99
+    21300200: Level2_Monster_Turtle_Die_100
+    21300202: Level2_Monster_Turtle_Die_101
+    21300204: Level2_Monster_Turtle_Die_102
+    21300206: Level2_Monster_Turtle_Die_103
+    21300208: Level2_Monster_Turtle_Die_104
+    21300210: Level2_Monster_Turtle_Die_105
+    21300212: Level2_Monster_Turtle_Die_106
+    21300214: Level2_Monster_Turtle_Die_107
+    21300216: Level2_Monster_Turtle_Die_108
+    21300218: Level2_Monster_Turtle_Die_109
+    21300220: Level2_Monster_Turtle_Die_110
+    21300222: Level2_Monster_Turtle_Die_111
+    21300224: Level2_Monster_Turtle_Die_112
+    21300226: Level2_Monster_Turtle_Die_113
+    21300228: Level2_Monster_Turtle_Die_114
+    21300230: Level2_Monster_Turtle_Die_115
+    21300232: Level2_Monster_Turtle_Die_116
+    21300234: Level2_Monster_Turtle_Die_117
+    21300236: Level2_Monster_Turtle_Die_118
+    21300238: Level2_Monster_Turtle_Die_119
+    21300240: Level2_Monster_Turtle_Die_120
+    21300242: Level2_Monster_Turtle_Die_121
+    21300244: Level2_Monster_Turtle_Die_122
+    21300246: Level2_Monster_Turtle_Die_123
+    21300248: Level2_Monster_Turtle_Die_124
+    21300250: Level2_Monster_Turtle_Die_125
+    21300252: Level2_Monster_Turtle_Die_126
+    21300254: Level2_Monster_Turtle_Die_127
+    21300256: Level2_Monster_Turtle_Die_128
+    21300258: Level2_Monster_Turtle_Die_129
+    21300260: Level2_Monster_Turtle_Die_130
+    21300262: Level2_Monster_Turtle_Die_131
+    21300264: Level2_Monster_Turtle_Die_132
+    21300266: Level2_Monster_Turtle_Die_133
+    21300268: Level2_Monster_Turtle_Die_134
+    21300270: Level2_Monster_Turtle_Die_135
+    21300272: Level2_Monster_Turtle_Die_136
+    21300274: Level2_Monster_Turtle_Die_137
+    21300276: Level2_Monster_Turtle_Die_138
+    21300278: Level2_Monster_Turtle_Die_139
+    21300280: Level2_Monster_Turtle_Die_140
+    21300282: Level2_Monster_Turtle_Die_141
+    21300284: Level2_Monster_Turtle_Die_142
+    21300286: Level2_Monster_Turtle_Die_143
+    21300288: Level2_Monster_Turtle_Die_144
+    21300290: Level2_Monster_Turtle_Die_145
+    21300292: Level2_Monster_Turtle_Die_146
+    21300294: Level2_Monster_Turtle_Die_147
+    21300296: Level2_Monster_Turtle_Die_148
+    21300298: Level2_Monster_Turtle_Die_149
+    21300300: Level2_Monster_Turtle_Die_150
+    21300302: Level2_Monster_Turtle_Die_151
+    21300304: Level2_Monster_Turtle_Die_152
+    21300306: Level2_Monster_Turtle_Die_153
+    21300308: Level2_Monster_Turtle_Die_154
+    21300310: Level2_Monster_Turtle_Die_155
+    21300312: Level2_Monster_Turtle_Die_156
+    21300314: Level2_Monster_Turtle_Die_157
+    21300316: Level2_Monster_Turtle_Die_158
+    21300318: Level2_Monster_Turtle_Die_159
+    21300320: Level2_Monster_Turtle_Die_160
+    21300322: Level2_Monster_Turtle_Die_161
+    21300324: Level2_Monster_Turtle_Die_162
+    21300326: Level2_Monster_Turtle_Die_163
+    21300328: Level2_Monster_Turtle_Die_164
+    21300330: Level2_Monster_Turtle_Die_165
+    21300332: Level2_Monster_Turtle_Die_166
+    21300334: Level2_Monster_Turtle_Die_167
+    21300336: Level2_Monster_Turtle_Die_168
+    21300338: Level2_Monster_Turtle_Die_169
+    21300340: Level2_Monster_Turtle_Die_170
+    21300342: Level2_Monster_Turtle_Die_171
+    21300344: Level2_Monster_Turtle_Die_172
+    21300346: Level2_Monster_Turtle_Die_173
+    21300348: Level2_Monster_Turtle_Die_174
+    21300350: Level2_Monster_Turtle_Die_175
+    21300352: Level2_Monster_Turtle_Die_176
+    21300354: Level2_Monster_Turtle_Die_177
+    21300356: Level2_Monster_Turtle_Die_178
+    21300358: Level2_Monster_Turtle_Die_179
+    21300360: Level2_Monster_Turtle_Die_180
+    21300362: Level2_Monster_Turtle_Die_181
+    21300364: Level2_Monster_Turtle_Die_182
+    21300366: Level2_Monster_Turtle_Die_183
+    21300368: Level2_Monster_Turtle_Die_184
+    21300370: Level2_Monster_Turtle_Die_185
+    21300372: Level2_Monster_Turtle_Die_186
+    21300374: Level2_Monster_Turtle_Die_187
+    21300376: Level2_Monster_Turtle_Die_188
+    21300378: Level2_Monster_Turtle_Die_189
+    21300380: Level2_Monster_Turtle_Die_190
+    21300382: Level2_Monster_Turtle_Die_191
+    21300384: Level2_Monster_Turtle_Die_192
+    21300386: Level2_Monster_Turtle_Die_193
+    21300388: Level2_Monster_Turtle_Die_194
+    21300390: Level2_Monster_Turtle_Die_195
+    21300392: Level2_Monster_Turtle_Die_196
+    21300394: Level2_Monster_Turtle_Die_197
+    21300396: Level2_Monster_Turtle_Die_198
+    21300398: Level2_Monster_Turtle_Die_199
+    21300400: Level2_Monster_Turtle_Die_200
+    21300402: Level2_Monster_Turtle_Die_201
+    21300404: Level2_Monster_Turtle_Die_202
+    21300406: Level2_Monster_Turtle_Die_203
+    21300408: Level2_Monster_Turtle_Die_204
+    21300410: Level2_Monster_Turtle_Die_205
+    21300412: Level2_Monster_Turtle_Die_206
+    21300414: Level2_Monster_Turtle_Die_207
+    21300416: Level2_Monster_Turtle_Die_208
+    21300418: Level2_Monster_Turtle_Die_209
+    21300420: Level2_Monster_Turtle_Die_210
+    21300422: Level2_Monster_Turtle_Die_211
+    21300424: Level2_Monster_Turtle_Die_212
+    21300426: Level2_Monster_Turtle_Die_213
+    21300428: Level2_Monster_Turtle_Die_214
+    21300430: Level2_Monster_Turtle_Die_215
+    21300432: Level2_Monster_Turtle_Die_216
+    21300434: Level2_Monster_Turtle_Die_217
+    21300436: Level2_Monster_Turtle_Die_218
+    21300438: Level2_Monster_Turtle_Die_219
+    21300440: Level2_Monster_Turtle_Die_220
+    21300442: Level2_Monster_Turtle_Die_221
+    21300444: Level2_Monster_Turtle_Die_222
+    21300446: Level2_Monster_Turtle_Die_223
+    21300448: Level2_Monster_Turtle_Die_224
+    21300450: Level2_Monster_Turtle_Die_225
+    21300452: Level2_Monster_Turtle_Die_226
+    21300454: Level2_Monster_Turtle_Die_227
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 12599
+        width: 407
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_1
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 12608
+        width: 376
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 12185
+        width: 344
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_3
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 12193
+        width: 312
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 11770
+        width: 286
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_5
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 11778
+        width: 255
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 11355
+        width: 224
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_7
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 11364
+        width: 199
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_8
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 10941
+        width: 177
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_9
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 10950
+        width: 171
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 10511
+        width: 173
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_11
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 10502
+        width: 172
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 10063
+        width: 173
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_13
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 10057
+        width: 172
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_14
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 9618
+        width: 173
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_15
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 9611
+        width: 172
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 9172
+        width: 172
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_17
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 9166
+        width: 171
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 8727
+        width: 173
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_19
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 8721
+        width: 172
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_20
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 8291
+        width: 173
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_21
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 8298
+        width: 171
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_22
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 7868
+        width: 173
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_23
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 7874
+        width: 171
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_24
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 7445
+        width: 173
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_25
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 7442
+        width: 172
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_26
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 7009
+        width: 173
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_27
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 7006
+        width: 171
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_28
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 6571
+        width: 173
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_29
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 6570
+        width: 171
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_30
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 6125
+        width: 320
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_31
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 6125
+        width: 320
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_32
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 5692
+        width: 321
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_33
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 5692
+        width: 318
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_34
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 5262
+        width: 321
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_35
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 5261
+        width: 318
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_36
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 4830
+        width: 321
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_37
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 4830
+        width: 320
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_38
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 4398
+        width: 321
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_39
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 4398
+        width: 320
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_40
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3965
+        width: 320
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_41
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 3965
+        width: 320
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_42
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 3533
+        width: 321
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_43
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 3532
+        width: 318
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_44
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3102
+        width: 320
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_45
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 3101
+        width: 318
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_46
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2670
+        width: 321
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_47
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 2670
+        width: 318
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_48
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2238
+        width: 321
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_49
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 2238
+        width: 318
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_50
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1805
+        width: 320
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_51
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1805
+        width: 318
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_52
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1373
+        width: 320
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_53
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1373
+        width: 318
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_54
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 943
+        width: 320
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_55
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 943
+        width: 318
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_56
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 511
+        width: 320
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_57
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 511
+        width: 318
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_58
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 79
+        width: 318
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Die_59
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 81
+        width: 318
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

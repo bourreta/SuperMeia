@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: f622add2975e0fd429635755d0108866
+timeCreated: 1518191993
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Monster_Turtle_Stomped_0
+    21300002: Monster_Turtle_Stomped_1
+    21300004: Monster_Turtle_Stomped_2
+    21300006: Monster_Turtle_Stomped_3
+    21300008: Monster_Turtle_Stomped_4
+    21300010: Monster_Turtle_Stomped_5
+    21300012: Monster_Turtle_Stomped_6
+    21300014: Monster_Turtle_Stomped_7
+    21300016: Monster_Turtle_Stomped_8
+    21300018: Monster_Turtle_Stomped_9
+    21300020: Monster_Turtle_Stomped_10
+    21300022: Monster_Turtle_Stomped_11
+    21300024: Monster_Turtle_Stomped_12
+    21300026: Monster_Turtle_Stomped_13
+    21300028: Monster_Turtle_Stomped_14
+    21300030: Monster_Turtle_Stomped_15
+    21300032: Monster_Turtle_Stomped_16
+    21300034: Monster_Turtle_Stomped_17
+    21300036: Monster_Turtle_Stomped_18
+    21300038: Monster_Turtle_Stomped_19
+    21300040: Monster_Turtle_Stomped_20
+    21300042: Monster_Turtle_Stomped_21
+    21300044: Monster_Turtle_Stomped_22
+    21300046: Monster_Turtle_Stomped_23
+    21300048: Monster_Turtle_Stomped_24
+    21300050: Monster_Turtle_Stomped_25
+    21300052: Monster_Turtle_Stomped_26
+    21300054: Monster_Turtle_Stomped_27
+    21300056: Monster_Turtle_Stomped_28
+    21300058: Monster_Turtle_Stomped_29
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 5717
+        width: 402
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_1
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 5726
+        width: 372
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 5332
+        width: 345
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_3
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 5341
+        width: 318
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 4947
+        width: 281
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_5
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 4956
+        width: 253
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 4562
+        width: 220
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_7
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 4569
+        width: 196
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 4176
+        width: 177
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_9
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 4187
+        width: 169
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 3778
+        width: 171
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_11
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 3769
+        width: 165
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_12
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 3360
+        width: 171
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_13
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3352
+        width: 169
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2943
+        width: 171
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_15
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2934
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_16
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2525
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_17
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2518
+        width: 166
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2107
+        width: 171
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_19
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2100
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1702
+        width: 172
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_21
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1706
+        width: 168
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_22
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1308
+        width: 172
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_23
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1314
+        width: 167
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_24
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 914
+        width: 172
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_25
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 907
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_26
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 506
+        width: 171
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_27
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 500
+        width: 169
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_28
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 100
+        width: 171
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monster_Turtle_Stomped_29
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 97
+        width: 165
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

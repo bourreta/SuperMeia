@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: b1af6fa45d918b24898048783b7aada5
+timeCreated: 1519513729
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Level2_Monster_Turtle_Stomped_0
+    21300002: Level2_Monster_Turtle_Stomped_1
+    21300004: Level2_Monster_Turtle_Stomped_2
+    21300006: Level2_Monster_Turtle_Stomped_3
+    21300008: Level2_Monster_Turtle_Stomped_4
+    21300010: Level2_Monster_Turtle_Stomped_5
+    21300012: Level2_Monster_Turtle_Stomped_6
+    21300014: Level2_Monster_Turtle_Stomped_7
+    21300016: Level2_Monster_Turtle_Stomped_8
+    21300018: Level2_Monster_Turtle_Stomped_9
+    21300020: Level2_Monster_Turtle_Stomped_10
+    21300022: Level2_Monster_Turtle_Stomped_11
+    21300024: Level2_Monster_Turtle_Stomped_12
+    21300026: Level2_Monster_Turtle_Stomped_13
+    21300028: Level2_Monster_Turtle_Stomped_14
+    21300030: Level2_Monster_Turtle_Stomped_15
+    21300032: Level2_Monster_Turtle_Stomped_16
+    21300034: Level2_Monster_Turtle_Stomped_17
+    21300036: Level2_Monster_Turtle_Stomped_18
+    21300038: Level2_Monster_Turtle_Stomped_19
+    21300040: Level2_Monster_Turtle_Stomped_20
+    21300042: Level2_Monster_Turtle_Stomped_21
+    21300044: Level2_Monster_Turtle_Stomped_22
+    21300046: Level2_Monster_Turtle_Stomped_23
+    21300048: Level2_Monster_Turtle_Stomped_24
+    21300050: Level2_Monster_Turtle_Stomped_25
+    21300052: Level2_Monster_Turtle_Stomped_26
+    21300054: Level2_Monster_Turtle_Stomped_27
+    21300056: Level2_Monster_Turtle_Stomped_28
+    21300058: Level2_Monster_Turtle_Stomped_29
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 5721
+        width: 401
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_1
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 5730
+        width: 370
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 5335
+        width: 339
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_3
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 5344
+        width: 308
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 4950
+        width: 278
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_5
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 4959
+        width: 247
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_6
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 4565
+        width: 216
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_7
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 4574
+        width: 191
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_8
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 4181
+        width: 169
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_9
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 4188
+        width: 165
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3778
+        width: 165
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_11
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 3771
+        width: 165
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_12
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3361
+        width: 165
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_13
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 3354
+        width: 165
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_14
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2944
+        width: 165
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_15
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 2937
+        width: 165
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_16
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2527
+        width: 165
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_17
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 2520
+        width: 165
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_18
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2109
+        width: 165
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_19
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 2105
+        width: 165
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_20
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1704
+        width: 165
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_21
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1708
+        width: 165
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_22
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1311
+        width: 165
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_23
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1315
+        width: 165
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_24
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 916
+        width: 165
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_25
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 914
+        width: 165
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 508
+        width: 165
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_27
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 506
+        width: 165
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_28
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 100
+        width: 165
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level2_Monster_Turtle_Stomped_29
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 99
+        width: 165
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
